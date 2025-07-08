@@ -10,6 +10,7 @@ This project is born from the frustration of unable to read PDFs on my ebook whi
 The software is decent with plain text with images and tables.
 However, it is not very good with lists and headings.
 But at least the plain text are readable, which satisfies my need.
+The sample PDF file and resulting EPUB file are included under `sample` directory.
 
 ## Usage
 
