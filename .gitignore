@@ -1,0 +1,12 @@
+__pycache__
+**/__pycache__
+
+*.local
+**/*.local
+
+.vscode/*
+!.vscode/extensions.json
+
+.venv
+.DS_Store
+**/.DS_Store
